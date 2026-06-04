@@ -1,5 +1,5 @@
 /*
- * SPDX-License-Identifier: GPL-2.0
+ * SPDX-License-Identifier: GPL-2.0-only OR MIT
  * SPDX-FileCopyrightText: Copyright (C) 2026 Edera, Inc.
  *
  * This program is free software; you can redistribute it and/or

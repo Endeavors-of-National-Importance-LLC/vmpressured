@@ -1,5 +1,5 @@
 /*
- * SPDX-License-Identifier: GPL-2.0
+ * SPDX-License-Identifier: GPL-2.0-only OR MIT
  * SPDX-FileCopyrightText: Copyright (C) 2026 Edera, Inc.
  *
  * This program is free software; you can redistribute it and/or
@@ -22,7 +22,7 @@
 #include <bpf/bpf_core_read.h>
 #include "vmpressure.h"
 
-char LICENSE[] SEC("license") = "GPL";
+char LICENSE[] SEC("license") = "Dual MIT/GPL";
 
 struct {
 	__uint(type, BPF_MAP_TYPE_RINGBUF);
